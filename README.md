@@ -51,9 +51,11 @@ This bot allows users to participate in a betting system for competitive gaming 
 ## Configuration
 - The bot reads user data from `users.json`. If the file does not exist, it will be created automatically.
 - Modify `metric_upper_limits` and `metric_lower_limits` in the script to adjust acceptable bet ranges for different metrics.
+- In csstatsgg.py functions enter a link to a player you want to use for tracking and betting
 
 ## Future Improvements
 - Add logging for better tracking of bet resolutions.
+- Add the ability to bet on multiple players
 - Introduce leaderboards for the highest earners.
 - Expand betting options for more in-depth analytics.
 
