@@ -40,7 +40,7 @@ This bot allows users to participate in a betting system for competitive gaming 
 ## Installation
 1. Install dependencies:
    ```sh
-   pip install discord.py csstatsgg
+   pip install -r requirements.txt
    ```
 2. Place your Discord bot token inside `discord_token.txt`.
 3. Run the bot:
